@@ -1,2 +1,2 @@
 # CodeTest
-日常code联系
+日常code练习
