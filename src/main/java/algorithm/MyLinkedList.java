@@ -1,6 +1,7 @@
 package algorithm;
 
 import java.util.Hashtable;
+import java.util.LinkedList;
 
 public class MyLinkedList {
     Node head = null;
